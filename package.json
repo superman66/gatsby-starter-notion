@@ -25,7 +25,7 @@
     "gatsby-remark-smartypants": "^2.1.11",
     "gatsby-source-filesystem": "^2.1.28",
     "gatsby-source-notion-database-private": "^0.7.0",
-    "gatsby-transformer-remark": "^2.6.26",
+    "gatsby-transformer-remark": "^5.25.1",
     "gatsby-transformer-sharp": "^2.2.19",
     "prismjs": "^1.17.1",
     "react": "^16.9.0",
